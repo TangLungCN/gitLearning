@@ -1,3 +1,4 @@
 Creating a new branch is quick AND simple.
 ababab
 git is a free software
+test stash
